@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Memory Game</string>
+    <string name="text_hi_score">Hi-score: %d</string>
+    <string name="text_play_button">Play</string>
+    <string name="text_score">Score: %d</string>
+    <string name="text_difficulty">Difficulty: %d</string>
+    <string name="text_replay">Replay</string>
+    <string name="text_prompt_watch">WATCH!</string>
+    <string name="text_prompt_go">GO!</string>
+    <string name="text_prompt_failed">FAILED!</string>
+    <string name="text_button1">1</string>
+    <string name="text_button2">2</string>
+    <string name="text_button3">3</string>
+    <string name="text_button4">4</string>
+    <string name="app_logo">App logo</string>
+</resources>
